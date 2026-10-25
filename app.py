@@ -5,7 +5,7 @@ from PIL import Image
 import pytesseract
 
 st.set_page_config(page_title="AI Application & Document Checker", page_icon="🛡️", layout="wide")
-st.title("🛡️ AI-Powered Application Validation")
+st.title("🛡️ SIVA CODE VAL")
 st.caption("SIH-style prototype • Demo only — not an official AICTE service")
 st.warning("Prototype notice: this demo performs basic form checks and optional OCR text extraction. It cannot prove that a certificate is genuine. Suspicious cases must be reviewed by an authorised person.")
 
